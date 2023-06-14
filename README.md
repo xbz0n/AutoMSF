@@ -26,6 +26,18 @@ This will generate four types of Meterpreter reverse_https payloads (C#, EXE, VB
 
 To use this script, you will need Python 3 installed on your machine. You will also need the Metasploit framework installed, as the script uses msfvenom to generate payloads and msfconsole to start a multi/handler.
 
+## Warning
+
+Please note that this tool is for educational purposes and authorized testing only. Always obtain proper permission before performing any kind of penetration testing.
+
+## License
+
+This project is licensed under the MIT License. 
+
+## Author
+
+xbz0n
+
 ## Disclaimer
 
 This script is intended for lawful, authorized penetration testing activities only. Always obtain proper authorization before conducting penetration testing activities. Misuse of this script could lead to violation of applicable laws. Use responsibly.
